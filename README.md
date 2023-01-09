@@ -1,3 +1,3 @@
 # seohyun.github.io
-블로그를 만들어보자!  
+포트폴리오를 만들어보자!  
 [Guideline](https://docs.github.com/en/pages)
