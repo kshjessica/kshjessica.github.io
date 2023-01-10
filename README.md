@@ -3,4 +3,4 @@
 [Guideline](https://docs.github.com/en/pages)
 
 ## TODO
-- [ ] Apply Jeyll
+- [ ] Apply Jekyll
