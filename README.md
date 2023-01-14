@@ -4,5 +4,4 @@
 
 ## TODO
 - [ ] Apply Jekyll
-- [ ] Search for theme
-- [ ] Hmm...
+- [ ] Search For Theme
